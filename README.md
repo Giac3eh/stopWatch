@@ -1,5 +1,5 @@
 # stopWatch
-Project created thanks to JavaScript Basics.
+Project created thanks to JavaScript.
 
 ## Link
 Counter: https://giac3eh.github.io/stopWatch/
